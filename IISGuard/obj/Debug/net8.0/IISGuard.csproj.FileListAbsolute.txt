@@ -1,0 +1,14 @@
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.AssemblyInfoInputs.cache
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.AssemblyInfo.cs
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.csproj.CoreCompileInputs.cache
+C:\Users\zshap\source\repos\IISGuard\IISGuard\bin\Debug\net8.0\IISGuard.exe
+C:\Users\zshap\source\repos\IISGuard\IISGuard\bin\Debug\net8.0\IISGuard.deps.json
+C:\Users\zshap\source\repos\IISGuard\IISGuard\bin\Debug\net8.0\IISGuard.runtimeconfig.json
+C:\Users\zshap\source\repos\IISGuard\IISGuard\bin\Debug\net8.0\IISGuard.dll
+C:\Users\zshap\source\repos\IISGuard\IISGuard\bin\Debug\net8.0\IISGuard.pdb
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.dll
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\refint\IISGuard.dll
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.pdb
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\IISGuard.genruntimeconfig.cache
+C:\Users\zshap\source\repos\IISGuard\IISGuard\obj\Debug\net8.0\ref\IISGuard.dll
