@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHLP48LTnG0=",
+  "dgSpecHash": "sBuUzPaBb+o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zshap\\source\\repos\\IISGuard\\IISGuard\\IISGuard.csproj",
+  "projectFilePath": "C:\\Users\\zshap\\OneDrive\\Projects\\iis_guard_toolkit\\IISGuard\\IISGuard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zshap\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\zshap\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
